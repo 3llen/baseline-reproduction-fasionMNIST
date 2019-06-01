@@ -1,5 +1,5 @@
-#### COMP 551 Final Project - McGill Univeristy - Professor W. Hamilton   
-**Baseline Reproduction for Fasion MNIST** May 2019  
+### COMP 551 Final Project - McGill Univeristy - Professor W. Hamilton   
+**Baseline Reproduction for Fasion MNIST** - May 2019  
 Team 16: [@Blair D.](https://github.com/BlairKH)
 [@Suki L.](https://github.com/SiqiLiu43)
 [@Ellen C.](https://github.com/3llen)
